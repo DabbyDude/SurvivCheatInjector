@@ -26,7 +26,7 @@ If you get any errors while installing make sure to have the right folder select
 - AimBot
   - Type
     - Auto aim
-    - Aaim on shoot
+    - Auto aim on shoot
     - Aim with RMB
   - Aim collisions
   - Aim using mouse
